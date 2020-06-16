@@ -6,9 +6,9 @@ When I am solving a problem I almost always reach for a functional approach as t
 
 For me a mix of functional and object oriented is usually my favorite approach, and when the two constradict, instead of compliment each other, I side on the functional approach.
 
-This repository contains the code that I based an episode of DevmentorLive on. You can find the episode at: [UNPUBLISHED; WILL UPDATE WHEN IT IS]
+This repository contains the code that I based an episode of DevmentorLive on. You can find the episode at: [YouTube](https://www.youtube.com/watch?v=-1A7BEX5SCo&t=1s)
 
-## Gte Live, Affordable JavaScript Mentorship
+## Get Live, Affordable JavaScript Mentorship
 
 _Learn from an expert in a fun, friendly, and affordable method._
 
